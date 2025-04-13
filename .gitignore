@@ -1,0 +1,10 @@
+# Arquivos de compilação
+*.o
+*.exe
+*.out
+old_c_projects
+
+# Arquivos temporários e de sistema
+*.log
+*.swp
+.DS_Store
